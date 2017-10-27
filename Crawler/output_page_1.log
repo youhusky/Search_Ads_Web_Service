@@ -1,0 +1,6428 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-07-01T01:13:52</date>
+  <millis>1498896832240</millis>
+  <sequence>0</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B0011DN9EO</message>
+</record>
+<record>
+  <date>2017-07-01T01:13:52</date>
+  <millis>1498896832263</millis>
+  <sequence>1</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:13:52</date>
+  <millis>1498896832266</millis>
+  <sequence>2</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:13:52</date>
+  <millis>1498896832267</millis>
+  <sequence>3</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:13:54</date>
+  <millis>1498896834677</millis>
+  <sequence>4</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B0011DN9EO</message>
+</record>
+<record>
+  <date>2017-07-01T01:13:54</date>
+  <millis>1498896834681</millis>
+  <sequence>5</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B0058ABILW</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:00</date>
+  <millis>1498896840911</millis>
+  <sequence>6</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B005G4YCHW</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:03</date>
+  <millis>1498896843471</millis>
+  <sequence>7</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00TKP0WPY</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:03</date>
+  <millis>1498896843490</millis>
+  <sequence>8</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B002C73WRW</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:03</date>
+  <millis>1498896843492</millis>
+  <sequence>9</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00J8Z422A</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:03</date>
+  <millis>1498896843494</millis>
+  <sequence>10</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01MSBRYZL</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:03</date>
+  <millis>1498896843497</millis>
+  <sequence>11</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01N9W2JJN</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:05</date>
+  <millis>1498896845789</millis>
+  <sequence>12</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:05</date>
+  <millis>1498896845791</millis>
+  <sequence>13</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:05</date>
+  <millis>1498896845794</millis>
+  <sequence>14</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:05</date>
+  <millis>1498896845798</millis>
+  <sequence>15</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00J8Z422A</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:05</date>
+  <millis>1498896845812</millis>
+  <sequence>16</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01G3STJF4</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:05</date>
+  <millis>1498896845816</millis>
+  <sequence>17</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00006WNKR</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:05</date>
+  <millis>1498896845818</millis>
+  <sequence>18</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B009A6CZYO</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:05</date>
+  <millis>1498896845819</millis>
+  <sequence>19</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00TKP0WPY</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:05</date>
+  <millis>1498896845825</millis>
+  <sequence>20</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01MSBRYZL</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:05</date>
+  <millis>1498896845829</millis>
+  <sequence>21</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01N9W2JJN</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:08</date>
+  <millis>1498896848246</millis>
+  <sequence>22</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007B5QWEA</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:08</date>
+  <millis>1498896848255</millis>
+  <sequence>23</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00N1SSWXU</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:08</date>
+  <millis>1498896848278</millis>
+  <sequence>24</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B002C73WRW</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:08</date>
+  <millis>1498896848289</millis>
+  <sequence>25</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01MSBRYZL</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:10</date>
+  <millis>1498896850388</millis>
+  <sequence>26</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00N1SSWXU</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:10</date>
+  <millis>1498896850390</millis>
+  <sequence>27</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found it</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:10</date>
+  <millis>1498896850392</millis>
+  <sequence>28</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B011IH6N22</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:10</date>
+  <millis>1498896850396</millis>
+  <sequence>29</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:10</date>
+  <millis>1498896850397</millis>
+  <sequence>30</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:10</date>
+  <millis>1498896850397</millis>
+  <sequence>31</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:10</date>
+  <millis>1498896850401</millis>
+  <sequence>32</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B000GFPTQY</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:10</date>
+  <millis>1498896850408</millis>
+  <sequence>33</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B002MXWKAG</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:10</date>
+  <millis>1498896850410</millis>
+  <sequence>34</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B002KY2OU8</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:10</date>
+  <millis>1498896850418</millis>
+  <sequence>35</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01MSBRYZL</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:10</date>
+  <millis>1498896850421</millis>
+  <sequence>36</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01N9W2JJN</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:13</date>
+  <millis>1498896853003</millis>
+  <sequence>37</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00TKP0WPY</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:13</date>
+  <millis>1498896853005</millis>
+  <sequence>38</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:13</date>
+  <millis>1498896853006</millis>
+  <sequence>39</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:13</date>
+  <millis>1498896853007</millis>
+  <sequence>40</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:13</date>
+  <millis>1498896853015</millis>
+  <sequence>41</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007K5H4Z2</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:13</date>
+  <millis>1498896853016</millis>
+  <sequence>42</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00V9Z2X6O</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:13</date>
+  <millis>1498896853027</millis>
+  <sequence>43</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B010XHCQGK</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:13</date>
+  <millis>1498896853033</millis>
+  <sequence>44</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01MSBRYZL</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:13</date>
+  <millis>1498896853035</millis>
+  <sequence>45</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01N9W2JJN</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:15</date>
+  <millis>1498896855590</millis>
+  <sequence>46</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00KSBBGA4</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:15</date>
+  <millis>1498896855591</millis>
+  <sequence>47</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B06XGJX3SH</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:15</date>
+  <millis>1498896855595</millis>
+  <sequence>48</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01CG8NFQO</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:15</date>
+  <millis>1498896855596</millis>
+  <sequence>49</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01C57GC66</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:15</date>
+  <millis>1498896855598</millis>
+  <sequence>50</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01CUARK32</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:15</date>
+  <millis>1498896855600</millis>
+  <sequence>51</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B06XGXDDJZ</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:15</date>
+  <millis>1498896855606</millis>
+  <sequence>52</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01N8PPMRG</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:15</date>
+  <millis>1498896855609</millis>
+  <sequence>53</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01N1GQC8P</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:15</date>
+  <millis>1498896855611</millis>
+  <sequence>54</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00U9U8RZQ</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:15</date>
+  <millis>1498896855613</millis>
+  <sequence>55</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00KSBB7OE</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:15</date>
+  <millis>1498896855614</millis>
+  <sequence>56</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00BCGRZ04</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:15</date>
+  <millis>1498896855615</millis>
+  <sequence>57</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00WR292JE</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:17</date>
+  <millis>1498896857774</millis>
+  <sequence>58</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00U9U8RZQ</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:17</date>
+  <millis>1498896857780</millis>
+  <sequence>59</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00WR292JE</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:17</date>
+  <millis>1498896857782</millis>
+  <sequence>60</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01CG8NEOW</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:17</date>
+  <millis>1498896857784</millis>
+  <sequence>61</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01CUARK32</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:17</date>
+  <millis>1498896857787</millis>
+  <sequence>62</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01EV2094Y</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:17</date>
+  <millis>1498896857793</millis>
+  <sequence>63</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B06XGJX3SH</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:17</date>
+  <millis>1498896857795</millis>
+  <sequence>64</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01CG8NFQO</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:17</date>
+  <millis>1498896857797</millis>
+  <sequence>65</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01A0LGUOI</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:17</date>
+  <millis>1498896857799</millis>
+  <sequence>66</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B06XGYR7HW</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:17</date>
+  <millis>1498896857801</millis>
+  <sequence>67</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01E6BL5SO</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:17</date>
+  <millis>1498896857802</millis>
+  <sequence>68</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01MTETN70</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:17</date>
+  <millis>1498896857804</millis>
+  <sequence>69</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00UB9UJFQ</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:17</date>
+  <millis>1498896857807</millis>
+  <sequence>70</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01C9CZG7S</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:20</date>
+  <millis>1498896860449</millis>
+  <sequence>71</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01CUARK32</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:20</date>
+  <millis>1498896860454</millis>
+  <sequence>72</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01CG8NFQO</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:20</date>
+  <millis>1498896860457</millis>
+  <sequence>73</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01A5LU5E4</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:20</date>
+  <millis>1498896860460</millis>
+  <sequence>74</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01CG8NEOW</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:20</date>
+  <millis>1498896860462</millis>
+  <sequence>75</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01FWIEKVY</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:20</date>
+  <millis>1498896860463</millis>
+  <sequence>76</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01A5LU76A</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:20</date>
+  <millis>1498896860470</millis>
+  <sequence>77</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01G7HWMBY</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:20</date>
+  <millis>1498896860474</millis>
+  <sequence>78</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00HPMCNXI</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:20</date>
+  <millis>1498896860475</millis>
+  <sequence>79</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00V0K0Y00</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:20</date>
+  <millis>1498896860477</millis>
+  <sequence>80</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01A5LUBJS</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:20</date>
+  <millis>1498896860478</millis>
+  <sequence>81</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01F4SWA9Q</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:20</date>
+  <millis>1498896860480</millis>
+  <sequence>82</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00NZA4V02</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:22</date>
+  <millis>1498896862738</millis>
+  <sequence>83</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01BGC39VM</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:22</date>
+  <millis>1498896862739</millis>
+  <sequence>84</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B015DBY37Q</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:22</date>
+  <millis>1498896862741</millis>
+  <sequence>85</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B018POLV3C</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:22</date>
+  <millis>1498896862748</millis>
+  <sequence>86</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01MUEUTQ2</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:22</date>
+  <millis>1498896862750</millis>
+  <sequence>87</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B018TCCWEM</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:22</date>
+  <millis>1498896862755</millis>
+  <sequence>88</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01C6XHQ4Q</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:24</date>
+  <millis>1498896864853</millis>
+  <sequence>89</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01N39OF7M</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:24</date>
+  <millis>1498896864854</millis>
+  <sequence>90</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01ARRCHSS</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:24</date>
+  <millis>1498896864856</millis>
+  <sequence>91</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01N16QDXQ</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:24</date>
+  <millis>1498896864857</millis>
+  <sequence>92</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01N4TQZM5</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:24</date>
+  <millis>1498896864860</millis>
+  <sequence>93</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01CERVNNY</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:24</date>
+  <millis>1498896864861</millis>
+  <sequence>94</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01C9CZG7S</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:24</date>
+  <millis>1498896864862</millis>
+  <sequence>95</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01JY3O80G</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:24</date>
+  <millis>1498896864863</millis>
+  <sequence>96</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01JY3OBVM</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:24</date>
+  <millis>1498896864864</millis>
+  <sequence>97</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01CHZXSNG</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:24</date>
+  <millis>1498896864869</millis>
+  <sequence>98</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01N4TLD23</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:24</date>
+  <millis>1498896864870</millis>
+  <sequence>99</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01JY3OBQM</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:24</date>
+  <millis>1498896864872</millis>
+  <sequence>100</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01C9CZEW0</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:24</date>
+  <millis>1498896864873</millis>
+  <sequence>101</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01MF8KVMS</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:27</date>
+  <millis>1498896867246</millis>
+  <sequence>102</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:27</date>
+  <millis>1498896867246</millis>
+  <sequence>103</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:27</date>
+  <millis>1498896867246</millis>
+  <sequence>104</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:29</date>
+  <millis>1498896869111</millis>
+  <sequence>105</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:29</date>
+  <millis>1498896869112</millis>
+  <sequence>106</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:29</date>
+  <millis>1498896869112</millis>
+  <sequence>107</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:29</date>
+  <millis>1498896869120</millis>
+  <sequence>108</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01KK0XNG2</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:29</date>
+  <millis>1498896869121</millis>
+  <sequence>109</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B013Q2Y2AM</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:31</date>
+  <millis>1498896871450</millis>
+  <sequence>110</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00PBFE8A2</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:31</date>
+  <millis>1498896871450</millis>
+  <sequence>111</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00PHPW1NC</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:31</date>
+  <millis>1498896871452</millis>
+  <sequence>112</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00JBJ3HQ0</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:31</date>
+  <millis>1498896871457</millis>
+  <sequence>113</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00JBJ3I4Q</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:33</date>
+  <millis>1498896873575</millis>
+  <sequence>114</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B06XSDDSTS</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:35</date>
+  <millis>1498896875875</millis>
+  <sequence>115</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B0107H5FJ6</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:37</date>
+  <millis>1498896877958</millis>
+  <sequence>116</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:37</date>
+  <millis>1498896877958</millis>
+  <sequence>117</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:37</date>
+  <millis>1498896877959</millis>
+  <sequence>118</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:43</date>
+  <millis>1498896883777</millis>
+  <sequence>119</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01DHXOSB8</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:49</date>
+  <millis>1498896889480</millis>
+  <sequence>120</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>this product does not have price B00UB76290</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:53</date>
+  <millis>1498896893893</millis>
+  <sequence>121</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00GODZYNA</message>
+</record>
+<record>
+  <date>2017-07-01T01:14:55</date>
+  <millis>1498896895437</millis>
+  <sequence>122</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B002BRZ9G0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:00</date>
+  <millis>1498896900601</millis>
+  <sequence>123</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007O1CAZQ</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:04</date>
+  <millis>1498896904601</millis>
+  <sequence>124</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:04</date>
+  <millis>1498896904602</millis>
+  <sequence>125</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:04</date>
+  <millis>1498896904602</millis>
+  <sequence>126</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:04</date>
+  <millis>1498896904603</millis>
+  <sequence>127</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00CLK0UVQ</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:06</date>
+  <millis>1498896906944</millis>
+  <sequence>128</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00NMEWBQM</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:06</date>
+  <millis>1498896906946</millis>
+  <sequence>129</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B000HCSMOW</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:08</date>
+  <millis>1498896908714</millis>
+  <sequence>130</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:08</date>
+  <millis>1498896908715</millis>
+  <sequence>131</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:08</date>
+  <millis>1498896908715</millis>
+  <sequence>132</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:10</date>
+  <millis>1498896910685</millis>
+  <sequence>133</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:10</date>
+  <millis>1498896910686</millis>
+  <sequence>134</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:10</date>
+  <millis>1498896910686</millis>
+  <sequence>135</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:10</date>
+  <millis>1498896910688</millis>
+  <sequence>136</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00UI69BU6</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:10</date>
+  <millis>1498896910690</millis>
+  <sequence>137</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B004PCHHVE</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:10</date>
+  <millis>1498896910691</millis>
+  <sequence>138</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00JN795JS</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:10</date>
+  <millis>1498896910692</millis>
+  <sequence>139</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B000FJA0HE</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:12</date>
+  <millis>1498896912910</millis>
+  <sequence>140</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B0085YIM5I</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:12</date>
+  <millis>1498896912914</millis>
+  <sequence>141</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:12</date>
+  <millis>1498896912915</millis>
+  <sequence>142</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:12</date>
+  <millis>1498896912915</millis>
+  <sequence>143</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:14</date>
+  <millis>1498896914909</millis>
+  <sequence>144</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B002FQKAJ8</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:17</date>
+  <millis>1498896917092</millis>
+  <sequence>145</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00BK3TLQ0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:17</date>
+  <millis>1498896917095</millis>
+  <sequence>146</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00NZ6AHTU</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:21</date>
+  <millis>1498896921105</millis>
+  <sequence>147</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:21</date>
+  <millis>1498896921107</millis>
+  <sequence>148</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:21</date>
+  <millis>1498896921107</millis>
+  <sequence>149</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:21</date>
+  <millis>1498896921115</millis>
+  <sequence>150</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B0056NQV40</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:23</date>
+  <millis>1498896923242</millis>
+  <sequence>151</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:23</date>
+  <millis>1498896923243</millis>
+  <sequence>152</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:23</date>
+  <millis>1498896923243</millis>
+  <sequence>153</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:23</date>
+  <millis>1498896923245</millis>
+  <sequence>154</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B0015C9MY2</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:23</date>
+  <millis>1498896923246</millis>
+  <sequence>155</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00FPGXFU6</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:23</date>
+  <millis>1498896923249</millis>
+  <sequence>156</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B0056NQV40</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:23</date>
+  <millis>1498896923250</millis>
+  <sequence>157</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00ZUJ2VZ8</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:23</date>
+  <millis>1498896923251</millis>
+  <sequence>158</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01I9MB6NK</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:28</date>
+  <millis>1498896928115</millis>
+  <sequence>159</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:28</date>
+  <millis>1498896928116</millis>
+  <sequence>160</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:28</date>
+  <millis>1498896928117</millis>
+  <sequence>161</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:28</date>
+  <millis>1498896928124</millis>
+  <sequence>162</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B004HB5EC2</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:30</date>
+  <millis>1498896930238</millis>
+  <sequence>163</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00AT1GBIA</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:30</date>
+  <millis>1498896930239</millis>
+  <sequence>164</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B010G2E0Q6</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:30</date>
+  <millis>1498896930239</millis>
+  <sequence>165</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00C43NI1O</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:32</date>
+  <millis>1498896932234</millis>
+  <sequence>166</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01N45TMG8</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:32</date>
+  <millis>1498896932235</millis>
+  <sequence>167</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B001HFB6MS</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:32</date>
+  <millis>1498896932236</millis>
+  <sequence>168</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B003FSTNBQ</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:32</date>
+  <millis>1498896932237</millis>
+  <sequence>169</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B015HSXBGO</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:32</date>
+  <millis>1498896932238</millis>
+  <sequence>170</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00BK31NDY</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:32</date>
+  <millis>1498896932240</millis>
+  <sequence>171</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00VTQSHPE</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:32</date>
+  <millis>1498896932242</millis>
+  <sequence>172</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00FSE7GN2</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:34</date>
+  <millis>1498896934025</millis>
+  <sequence>173</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B010G2E0Q6</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:34</date>
+  <millis>1498896934027</millis>
+  <sequence>174</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B010CBZ6ZK</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:34</date>
+  <millis>1498896934028</millis>
+  <sequence>175</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B008V8ASPK</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:34</date>
+  <millis>1498896934031</millis>
+  <sequence>176</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B002LQCTW8</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:36</date>
+  <millis>1498896936024</millis>
+  <sequence>177</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:36</date>
+  <millis>1498896936024</millis>
+  <sequence>178</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:36</date>
+  <millis>1498896936024</millis>
+  <sequence>179</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:36</date>
+  <millis>1498896936025</millis>
+  <sequence>180</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B015HSXBGO</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:36</date>
+  <millis>1498896936029</millis>
+  <sequence>181</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00SLOQWDG</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:38</date>
+  <millis>1498896938447</millis>
+  <sequence>182</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00SLOQWDG</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:40</date>
+  <millis>1498896940466</millis>
+  <sequence>183</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00FHXI49E</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:42</date>
+  <millis>1498896942901</millis>
+  <sequence>184</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01KKTNB7O</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:45</date>
+  <millis>1498896945036</millis>
+  <sequence>185</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B017B1B2W0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:45</date>
+  <millis>1498896945041</millis>
+  <sequence>186</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01KKTNB7O</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:47</date>
+  <millis>1498896947160</millis>
+  <sequence>187</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found it</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:47</date>
+  <millis>1498896947163</millis>
+  <sequence>188</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01KKTNB7O</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:49</date>
+  <millis>1498896949729</millis>
+  <sequence>189</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B000GOAG5O</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:49</date>
+  <millis>1498896949731</millis>
+  <sequence>190</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B017B1B2W0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:51</date>
+  <millis>1498896951356</millis>
+  <sequence>191</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found it</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:51</date>
+  <millis>1498896951360</millis>
+  <sequence>192</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B000BVKSAK</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:51</date>
+  <millis>1498896951362</millis>
+  <sequence>193</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B000ERVLL6</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:51</date>
+  <millis>1498896951363</millis>
+  <sequence>194</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B017B1B2W0</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:52</date>
+  <millis>1498896952528</millis>
+  <sequence>195</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found it</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:52</date>
+  <millis>1498896952530</millis>
+  <sequence>196</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01KKTNB7O</message>
+</record>
+<record>
+  <date>2017-07-01T01:15:58</date>
+  <millis>1498896958513</millis>
+  <sequence>197</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B010QLOJ3G</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:00</date>
+  <millis>1498896960904</millis>
+  <sequence>198</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00TFY8Z54</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:04</date>
+  <millis>1498896964398</millis>
+  <sequence>199</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00TFY8Z54</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:04</date>
+  <millis>1498896964398</millis>
+  <sequence>200</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found it</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:04</date>
+  <millis>1498896964401</millis>
+  <sequence>201</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01E3EQNAO</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:06</date>
+  <millis>1498896966268</millis>
+  <sequence>202</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01HR6C6Q0</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:08</date>
+  <millis>1498896968756</millis>
+  <sequence>203</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00V5MW7JO</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:13</date>
+  <millis>1498896973671</millis>
+  <sequence>204</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00F4LCS5A</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:20</date>
+  <millis>1498896980543</millis>
+  <sequence>205</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:20</date>
+  <millis>1498896980543</millis>
+  <sequence>206</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:20</date>
+  <millis>1498896980543</millis>
+  <sequence>207</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:22</date>
+  <millis>1498896982468</millis>
+  <sequence>208</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:22</date>
+  <millis>1498896982468</millis>
+  <sequence>209</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:22</date>
+  <millis>1498896982469</millis>
+  <sequence>210</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:29</date>
+  <millis>1498896989268</millis>
+  <sequence>211</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:29</date>
+  <millis>1498896989269</millis>
+  <sequence>212</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:29</date>
+  <millis>1498896989269</millis>
+  <sequence>213</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:31</date>
+  <millis>1498896991240</millis>
+  <sequence>214</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00X49PTKA</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:31</date>
+  <millis>1498896991243</millis>
+  <sequence>215</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B004BD8QEO</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:31</date>
+  <millis>1498896991244</millis>
+  <sequence>216</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01AIVQBZS</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:33</date>
+  <millis>1498896993199</millis>
+  <sequence>217</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00BFS89SQ</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:33</date>
+  <millis>1498896993201</millis>
+  <sequence>218</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B004UQ6Q62</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:35</date>
+  <millis>1498896995459</millis>
+  <sequence>219</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00SIJSK98</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:37</date>
+  <millis>1498896997591</millis>
+  <sequence>220</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found it</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:37</date>
+  <millis>1498896997597</millis>
+  <sequence>221</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00TGQR93U</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:39</date>
+  <millis>1498896999531</millis>
+  <sequence>222</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B0049LUI9O</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:41</date>
+  <millis>1498897001502</millis>
+  <sequence>223</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B01I3GTO4U</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:41</date>
+  <millis>1498897001505</millis>
+  <sequence>224</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00G6ZVZ0W</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:45</date>
+  <millis>1498897005271</millis>
+  <sequence>225</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found it</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:45</date>
+  <millis>1498897005273</millis>
+  <sequence>226</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00TGQR93U</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:47</date>
+  <millis>1498897007388</millis>
+  <sequence>227</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:47</date>
+  <millis>1498897007388</millis>
+  <sequence>228</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:47</date>
+  <millis>1498897007388</millis>
+  <sequence>229</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:47</date>
+  <millis>1498897007390</millis>
+  <sequence>230</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B012B6497K</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:47</date>
+  <millis>1498897007393</millis>
+  <sequence>231</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00L3NQBPQ</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:49</date>
+  <millis>1498897009674</millis>
+  <sequence>232</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:49</date>
+  <millis>1498897009674</millis>
+  <sequence>233</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:49</date>
+  <millis>1498897009674</millis>
+  <sequence>234</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:49</date>
+  <millis>1498897009677</millis>
+  <sequence>235</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:49</date>
+  <millis>1498897009678</millis>
+  <sequence>236</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:49</date>
+  <millis>1498897009678</millis>
+  <sequence>237</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:49</date>
+  <millis>1498897009679</millis>
+  <sequence>238</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B012B6497K</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:49</date>
+  <millis>1498897009680</millis>
+  <sequence>239</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B004LQ1PAS</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:53</date>
+  <millis>1498897013368</millis>
+  <sequence>240</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01B8GQ7RO</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:53</date>
+  <millis>1498897013374</millis>
+  <sequence>241</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00R6OXFAK</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:53</date>
+  <millis>1498897013377</millis>
+  <sequence>242</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:53</date>
+  <millis>1498897013377</millis>
+  <sequence>243</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:53</date>
+  <millis>1498897013377</millis>
+  <sequence>244</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:53</date>
+  <millis>1498897013382</millis>
+  <sequence>245</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:53</date>
+  <millis>1498897013383</millis>
+  <sequence>246</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:53</date>
+  <millis>1498897013383</millis>
+  <sequence>247</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:56</date>
+  <millis>1498897016204</millis>
+  <sequence>248</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B071WQFYYK</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:56</date>
+  <millis>1498897016205</millis>
+  <sequence>249</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B072BPRJLV</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:57</date>
+  <millis>1498897017950</millis>
+  <sequence>250</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01AFUEA00</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:57</date>
+  <millis>1498897017952</millis>
+  <sequence>251</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B008VHHXPO</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:57</date>
+  <millis>1498897017953</millis>
+  <sequence>252</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00J00PJJI</message>
+</record>
+<record>
+  <date>2017-07-01T01:16:59</date>
+  <millis>1498897019902</millis>
+  <sequence>253</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B006MIUM20</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:01</date>
+  <millis>1498897021946</millis>
+  <sequence>254</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:01</date>
+  <millis>1498897021947</millis>
+  <sequence>255</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:01</date>
+  <millis>1498897021947</millis>
+  <sequence>256</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:01</date>
+  <millis>1498897021961</millis>
+  <sequence>257</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:01</date>
+  <millis>1498897021961</millis>
+  <sequence>258</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:01</date>
+  <millis>1498897021961</millis>
+  <sequence>259</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:04</date>
+  <millis>1498897024209</millis>
+  <sequence>260</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:04</date>
+  <millis>1498897024210</millis>
+  <sequence>261</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:04</date>
+  <millis>1498897024210</millis>
+  <sequence>262</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:04</date>
+  <millis>1498897024213</millis>
+  <sequence>263</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B06X9VJGFP</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:06</date>
+  <millis>1498897026694</millis>
+  <sequence>264</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found it</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:06</date>
+  <millis>1498897026695</millis>
+  <sequence>265</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B002DM5PPS</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:06</date>
+  <millis>1498897026696</millis>
+  <sequence>266</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B004REK31Q</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:06</date>
+  <millis>1498897026697</millis>
+  <sequence>267</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B001O0EU9C</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:06</date>
+  <millis>1498897026698</millis>
+  <sequence>268</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00N6XKULM</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:06</date>
+  <millis>1498897026699</millis>
+  <sequence>269</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00IJ3BN0Q</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:08</date>
+  <millis>1498897028703</millis>
+  <sequence>270</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:08</date>
+  <millis>1498897028704</millis>
+  <sequence>271</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:08</date>
+  <millis>1498897028704</millis>
+  <sequence>272</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:08</date>
+  <millis>1498897028704</millis>
+  <sequence>273</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01IF1GV4E</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:10</date>
+  <millis>1498897030881</millis>
+  <sequence>274</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:10</date>
+  <millis>1498897030882</millis>
+  <sequence>275</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:10</date>
+  <millis>1498897030882</millis>
+  <sequence>276</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:15</date>
+  <millis>1498897035139</millis>
+  <sequence>277</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found this pageGrills+&amp;+Outdoor+Cooking1</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:17</date>
+  <millis>1498897037694</millis>
+  <sequence>278</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B003LNOPSG</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:17</date>
+  <millis>1498897037695</millis>
+  <sequence>279</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B009SZO7LQ</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:17</date>
+  <millis>1498897037699</millis>
+  <sequence>280</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:17</date>
+  <millis>1498897037699</millis>
+  <sequence>281</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:17</date>
+  <millis>1498897037699</millis>
+  <sequence>282</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:17</date>
+  <millis>1498897037704</millis>
+  <sequence>283</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01MD0H0TE</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:19</date>
+  <millis>1498897039994</millis>
+  <sequence>284</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B009SZO7LQ</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:19</date>
+  <millis>1498897039997</millis>
+  <sequence>285</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:19</date>
+  <millis>1498897039997</millis>
+  <sequence>286</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:19</date>
+  <millis>1498897039997</millis>
+  <sequence>287</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:20</date>
+  <millis>1498897040001</millis>
+  <sequence>288</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B06XNVZDC7</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:20</date>
+  <millis>1498897040005</millis>
+  <sequence>289</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01JSG272U</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:22</date>
+  <millis>1498897042180</millis>
+  <sequence>290</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B003LNOPSG</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:22</date>
+  <millis>1498897042180</millis>
+  <sequence>291</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B003LNOPSG</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:22</date>
+  <millis>1498897042182</millis>
+  <sequence>292</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00DJ6IF90</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:24</date>
+  <millis>1498897044747</millis>
+  <sequence>293</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B000BY4ZHO</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:24</date>
+  <millis>1498897044750</millis>
+  <sequence>294</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01FSLQL4E</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:24</date>
+  <millis>1498897044759</millis>
+  <sequence>295</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00BKMXYUA</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:27</date>
+  <millis>1498897047579</millis>
+  <sequence>296</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B003LNOPSG</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:29</date>
+  <millis>1498897049254</millis>
+  <sequence>297</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B005LRS9Y6</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:29</date>
+  <millis>1498897049254</millis>
+  <sequence>298</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B005LRS9Y6</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:29</date>
+  <millis>1498897049254</millis>
+  <sequence>299</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B005LRS9Y6</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:33</date>
+  <millis>1498897053708</millis>
+  <sequence>300</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:33</date>
+  <millis>1498897053709</millis>
+  <sequence>301</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:33</date>
+  <millis>1498897053709</millis>
+  <sequence>302</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:33</date>
+  <millis>1498897053712</millis>
+  <sequence>303</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01N5UT6FC</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:33</date>
+  <millis>1498897053713</millis>
+  <sequence>304</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:33</date>
+  <millis>1498897053713</millis>
+  <sequence>305</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:33</date>
+  <millis>1498897053714</millis>
+  <sequence>306</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:35</date>
+  <millis>1498897055818</millis>
+  <sequence>307</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:35</date>
+  <millis>1498897055819</millis>
+  <sequence>308</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:35</date>
+  <millis>1498897055819</millis>
+  <sequence>309</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:35</date>
+  <millis>1498897055824</millis>
+  <sequence>310</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00K589F8A</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:37</date>
+  <millis>1498897057884</millis>
+  <sequence>311</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01E318R1K</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:37</date>
+  <millis>1498897057890</millis>
+  <sequence>312</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00OCD3WII</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:37</date>
+  <millis>1498897057891</millis>
+  <sequence>313</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00RMN7B9G</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:41</date>
+  <millis>1498897061683</millis>
+  <sequence>314</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B06XW3NCSH</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:41</date>
+  <millis>1498897061686</millis>
+  <sequence>315</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B072BX8C8L</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:41</date>
+  <millis>1498897061695</millis>
+  <sequence>316</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B06WP7PT4R</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:41</date>
+  <millis>1498897061697</millis>
+  <sequence>317</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01DM8N5FI</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:41</date>
+  <millis>1498897061700</millis>
+  <sequence>318</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B071GP2N26</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:44</date>
+  <millis>1498897064221</millis>
+  <sequence>319</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B072BHWYVJ</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:46</date>
+  <millis>1498897066423</millis>
+  <sequence>320</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00K589F8A</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:49</date>
+  <millis>1498897069835</millis>
+  <sequence>321</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01FCV9G3I</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:52</date>
+  <millis>1498897072742</millis>
+  <sequence>322</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B002ZVOLXE</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:52</date>
+  <millis>1498897072747</millis>
+  <sequence>323</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00BBQVL5U</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:52</date>
+  <millis>1498897072752</millis>
+  <sequence>324</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:52</date>
+  <millis>1498897072752</millis>
+  <sequence>325</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:52</date>
+  <millis>1498897072752</millis>
+  <sequence>326</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:52</date>
+  <millis>1498897072760</millis>
+  <sequence>327</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01C5YWS3A</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:54</date>
+  <millis>1498897074184</millis>
+  <sequence>328</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B002ZVOLXE</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:54</date>
+  <millis>1498897074189</millis>
+  <sequence>329</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00BBQVL5U</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:54</date>
+  <millis>1498897074191</millis>
+  <sequence>330</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00NOGZCI2</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:54</date>
+  <millis>1498897074193</millis>
+  <sequence>331</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01D8IJH2W</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:54</date>
+  <millis>1498897074196</millis>
+  <sequence>332</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01EUL9IVQ</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:54</date>
+  <millis>1498897074200</millis>
+  <sequence>333</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:54</date>
+  <millis>1498897074200</millis>
+  <sequence>334</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:54</date>
+  <millis>1498897074201</millis>
+  <sequence>335</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:54</date>
+  <millis>1498897074205</millis>
+  <sequence>336</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01C5YWS3A</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:54</date>
+  <millis>1498897074206</millis>
+  <sequence>337</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01BSURQXO</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:55</date>
+  <millis>1498897075389</millis>
+  <sequence>338</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00280MVAC</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:55</date>
+  <millis>1498897075391</millis>
+  <sequence>339</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00ODDSVU6</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:55</date>
+  <millis>1498897075393</millis>
+  <sequence>340</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00Z4QZM5S</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:55</date>
+  <millis>1498897075395</millis>
+  <sequence>341</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01DIDHBO8</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:56</date>
+  <millis>1498897076382</millis>
+  <sequence>342</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01DIDHBO8</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:56</date>
+  <millis>1498897076382</millis>
+  <sequence>343</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B001XFBBI6</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:56</date>
+  <millis>1498897076383</millis>
+  <sequence>344</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B003BJE9WM</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:56</date>
+  <millis>1498897076385</millis>
+  <sequence>345</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00AMADF1O</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:56</date>
+  <millis>1498897076385</millis>
+  <sequence>346</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00TZLIDC2</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:56</date>
+  <millis>1498897076386</millis>
+  <sequence>347</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B00GX9WNP2</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:56</date>
+  <millis>1498897076386</millis>
+  <sequence>348</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00GX9WNP2</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:57</date>
+  <millis>1498897077441</millis>
+  <sequence>349</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00NOGZCI2</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:57</date>
+  <millis>1498897077447</millis>
+  <sequence>350</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01DPH08BU</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:59</date>
+  <millis>1498897079653</millis>
+  <sequence>351</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00S6Z2GWQ</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:59</date>
+  <millis>1498897079655</millis>
+  <sequence>352</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:59</date>
+  <millis>1498897079655</millis>
+  <sequence>353</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:59</date>
+  <millis>1498897079655</millis>
+  <sequence>354</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:59</date>
+  <millis>1498897079656</millis>
+  <sequence>355</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00A33CSN6</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:59</date>
+  <millis>1498897079658</millis>
+  <sequence>356</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:59</date>
+  <millis>1498897079658</millis>
+  <sequence>357</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:59</date>
+  <millis>1498897079658</millis>
+  <sequence>358</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:59</date>
+  <millis>1498897079659</millis>
+  <sequence>359</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B0124VPWDM</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:59</date>
+  <millis>1498897079661</millis>
+  <sequence>360</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01H48KE24</message>
+</record>
+<record>
+  <date>2017-07-01T01:17:59</date>
+  <millis>1498897079662</millis>
+  <sequence>361</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00CSN4VA2</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:04</date>
+  <millis>1498897084167</millis>
+  <sequence>362</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B06ZZGK1B9</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:09</date>
+  <millis>1498897089442</millis>
+  <sequence>363</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01N535O2F</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:17</date>
+  <millis>1498897097154</millis>
+  <sequence>364</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01N67H8HF</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:28</date>
+  <millis>1498897108129</millis>
+  <sequence>365</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B004KEOHH4</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:30</date>
+  <millis>1498897110274</millis>
+  <sequence>366</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00OQIVOZ2</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:30</date>
+  <millis>1498897110275</millis>
+  <sequence>367</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00LGWE8IQ</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:32</date>
+  <millis>1498897112246</millis>
+  <sequence>368</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00027EGI8</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:36</date>
+  <millis>1498897116423</millis>
+  <sequence>369</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:36</date>
+  <millis>1498897116423</millis>
+  <sequence>370</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:36</date>
+  <millis>1498897116424</millis>
+  <sequence>371</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:36</date>
+  <millis>1498897116430</millis>
+  <sequence>372</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01C5YWS3A</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:36</date>
+  <millis>1498897116432</millis>
+  <sequence>373</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B00GX9WNP2</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:36</date>
+  <millis>1498897116432</millis>
+  <sequence>374</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00GX9WNP2</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:38</date>
+  <millis>1498897118613</millis>
+  <sequence>375</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:38</date>
+  <millis>1498897118614</millis>
+  <sequence>376</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:38</date>
+  <millis>1498897118614</millis>
+  <sequence>377</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:38</date>
+  <millis>1498897118624</millis>
+  <sequence>378</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B008F4OXLK</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:38</date>
+  <millis>1498897118625</millis>
+  <sequence>379</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01C5YWS3A</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:38</date>
+  <millis>1498897118627</millis>
+  <sequence>380</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01BSURQXO</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:38</date>
+  <millis>1498897118628</millis>
+  <sequence>381</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B00GX9WNP2</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:38</date>
+  <millis>1498897118629</millis>
+  <sequence>382</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00GX9WNP2</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:41</date>
+  <millis>1498897121064</millis>
+  <sequence>383</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:41</date>
+  <millis>1498897121065</millis>
+  <sequence>384</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:41</date>
+  <millis>1498897121065</millis>
+  <sequence>385</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:41</date>
+  <millis>1498897121068</millis>
+  <sequence>386</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:41</date>
+  <millis>1498897121068</millis>
+  <sequence>387</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:41</date>
+  <millis>1498897121068</millis>
+  <sequence>388</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:41</date>
+  <millis>1498897121070</millis>
+  <sequence>389</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01C5YWS3A</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:41</date>
+  <millis>1498897121071</millis>
+  <sequence>390</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B00GX9WNP2</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:41</date>
+  <millis>1498897121071</millis>
+  <sequence>391</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00GX9WNP2</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:43</date>
+  <millis>1498897123131</millis>
+  <sequence>392</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01MYV1H2X</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:45</date>
+  <millis>1498897125510</millis>
+  <sequence>393</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00BFB3X98</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:45</date>
+  <millis>1498897125511</millis>
+  <sequence>394</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:45</date>
+  <millis>1498897125511</millis>
+  <sequence>395</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:45</date>
+  <millis>1498897125511</millis>
+  <sequence>396</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:45</date>
+  <millis>1498897125517</millis>
+  <sequence>397</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B0128KRJ3U</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:45</date>
+  <millis>1498897125518</millis>
+  <sequence>398</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01C5YWS3A</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:45</date>
+  <millis>1498897125520</millis>
+  <sequence>399</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B00GX9WNP2</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:45</date>
+  <millis>1498897125520</millis>
+  <sequence>400</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00GX9WNP2</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:55</date>
+  <millis>1498897135269</millis>
+  <sequence>401</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B000WUIGYA</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:55</date>
+  <millis>1498897135271</millis>
+  <sequence>402</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00SVVUOGU</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:55</date>
+  <millis>1498897135273</millis>
+  <sequence>403</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B0105O5UMS</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:55</date>
+  <millis>1498897135274</millis>
+  <sequence>404</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B073CV4P78</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:55</date>
+  <millis>1498897135275</millis>
+  <sequence>405</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B073CSSF77</message>
+</record>
+<record>
+  <date>2017-07-01T01:18:57</date>
+  <millis>1498897137641</millis>
+  <sequence>406</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00SD8JWQE</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:01</date>
+  <millis>1498897141252</millis>
+  <sequence>407</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B001B3RFK8</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:05</date>
+  <millis>1498897145402</millis>
+  <sequence>408</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found it</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:07</date>
+  <millis>1498897147743</millis>
+  <sequence>409</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:07</date>
+  <millis>1498897147744</millis>
+  <sequence>410</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:07</date>
+  <millis>1498897147744</millis>
+  <sequence>411</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:07</date>
+  <millis>1498897147751</millis>
+  <sequence>412</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00MYTSDU4</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:09</date>
+  <millis>1498897149842</millis>
+  <sequence>413</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00MYTSDU4</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:09</date>
+  <millis>1498897149845</millis>
+  <sequence>414</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:09</date>
+  <millis>1498897149845</millis>
+  <sequence>415</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:09</date>
+  <millis>1498897149845</millis>
+  <sequence>416</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:12</date>
+  <millis>1498897152101</millis>
+  <sequence>417</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:12</date>
+  <millis>1498897152102</millis>
+  <sequence>418</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:12</date>
+  <millis>1498897152102</millis>
+  <sequence>419</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:12</date>
+  <millis>1498897152103</millis>
+  <sequence>420</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00MYTSDU4</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:16</date>
+  <millis>1498897156629</millis>
+  <sequence>421</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00H3VUE8W</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:18</date>
+  <millis>1498897158887</millis>
+  <sequence>422</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01CDYAGPY</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:23</date>
+  <millis>1498897163409</millis>
+  <sequence>423</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01CDYAGPY</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:29</date>
+  <millis>1498897169116</millis>
+  <sequence>424</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B06XXFYDYF</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:29</date>
+  <millis>1498897169118</millis>
+  <sequence>425</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B01N51VVTA</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:29</date>
+  <millis>1498897169119</millis>
+  <sequence>426</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B06XX9NGQD</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:29</date>
+  <millis>1498897169120</millis>
+  <sequence>427</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B06XXHTYBR</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:29</date>
+  <millis>1498897169121</millis>
+  <sequence>428</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B06XXGJ5FL</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:29</date>
+  <millis>1498897169121</millis>
+  <sequence>429</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B01MRS3AR6</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:36</date>
+  <millis>1498897176026</millis>
+  <sequence>430</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00KZNH5IW</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:36</date>
+  <millis>1498897176030</millis>
+  <sequence>431</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B0032HF60M</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:38</date>
+  <millis>1498897178046</millis>
+  <sequence>432</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B06XQXQ49S</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:42</date>
+  <millis>1498897182658</millis>
+  <sequence>433</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B0054YXR16</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:42</date>
+  <millis>1498897182664</millis>
+  <sequence>434</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B004CQZ91I</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:42</date>
+  <millis>1498897182665</millis>
+  <sequence>435</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B003KGBMD0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:45</date>
+  <millis>1498897185228</millis>
+  <sequence>436</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B010VIP5P0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:45</date>
+  <millis>1498897185231</millis>
+  <sequence>437</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B001EJYX18</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:45</date>
+  <millis>1498897185234</millis>
+  <sequence>438</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00435JV3U</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:49</date>
+  <millis>1498897189686</millis>
+  <sequence>439</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:49</date>
+  <millis>1498897189687</millis>
+  <sequence>440</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:49</date>
+  <millis>1498897189687</millis>
+  <sequence>441</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:52</date>
+  <millis>1498897192250</millis>
+  <sequence>442</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:52</date>
+  <millis>1498897192251</millis>
+  <sequence>443</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:52</date>
+  <millis>1498897192251</millis>
+  <sequence>444</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:54</date>
+  <millis>1498897194508</millis>
+  <sequence>445</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:54</date>
+  <millis>1498897194508</millis>
+  <sequence>446</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:54</date>
+  <millis>1498897194508</millis>
+  <sequence>447</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:56</date>
+  <millis>1498897196687</millis>
+  <sequence>448</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:56</date>
+  <millis>1498897196687</millis>
+  <sequence>449</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:56</date>
+  <millis>1498897196687</millis>
+  <sequence>450</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:56</date>
+  <millis>1498897196691</millis>
+  <sequence>451</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007GE75G0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:59</date>
+  <millis>1498897199230</millis>
+  <sequence>452</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:59</date>
+  <millis>1498897199230</millis>
+  <sequence>453</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:59</date>
+  <millis>1498897199230</millis>
+  <sequence>454</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:19:59</date>
+  <millis>1498897199234</millis>
+  <sequence>455</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B000MPA044</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:00</date>
+  <millis>1498897200654</millis>
+  <sequence>456</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B000MPA044</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:00</date>
+  <millis>1498897200659</millis>
+  <sequence>457</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01BXBBU8K</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:02</date>
+  <millis>1498897202281</millis>
+  <sequence>458</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B000MPA044</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:02</date>
+  <millis>1498897202287</millis>
+  <sequence>459</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:02</date>
+  <millis>1498897202287</millis>
+  <sequence>460</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:02</date>
+  <millis>1498897202288</millis>
+  <sequence>461</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:02</date>
+  <millis>1498897202289</millis>
+  <sequence>462</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01C7TOL9W</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:03</date>
+  <millis>1498897203919</millis>
+  <sequence>463</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:03</date>
+  <millis>1498897203919</millis>
+  <sequence>464</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:03</date>
+  <millis>1498897203920</millis>
+  <sequence>465</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:03</date>
+  <millis>1498897203925</millis>
+  <sequence>466</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00023D9RG</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:05</date>
+  <millis>1498897205165</millis>
+  <sequence>467</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01DZP9SUY</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:06</date>
+  <millis>1498897206594</millis>
+  <sequence>468</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00C4RRNEI</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:06</date>
+  <millis>1498897206598</millis>
+  <sequence>469</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00JR5AD6A</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:06</date>
+  <millis>1498897206601</millis>
+  <sequence>470</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00CGSES9I</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:08</date>
+  <millis>1498897208662</millis>
+  <sequence>471</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B008J3SB10</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:08</date>
+  <millis>1498897208663</millis>
+  <sequence>472</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00BGZCWOA</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:08</date>
+  <millis>1498897208663</millis>
+  <sequence>473</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01MEH0UUR</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:08</date>
+  <millis>1498897208664</millis>
+  <sequence>474</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00000JGRQ</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:08</date>
+  <millis>1498897208666</millis>
+  <sequence>475</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B013AL94GQ</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:08</date>
+  <millis>1498897208667</millis>
+  <sequence>476</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B013OVPDBM</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:08</date>
+  <millis>1498897208669</millis>
+  <sequence>477</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007TKLFLM</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:10</date>
+  <millis>1498897210869</millis>
+  <sequence>478</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00LU2HZJQ</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:10</date>
+  <millis>1498897210878</millis>
+  <sequence>479</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00JR5AD6A</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:10</date>
+  <millis>1498897210879</millis>
+  <sequence>480</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B0017XHSAE</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:12</date>
+  <millis>1498897212630</millis>
+  <sequence>481</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B0081PTLGU</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:12</date>
+  <millis>1498897212632</millis>
+  <sequence>482</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B016O9CHNS</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:12</date>
+  <millis>1498897212632</millis>
+  <sequence>483</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01N9C9QR1</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:12</date>
+  <millis>1498897212634</millis>
+  <sequence>484</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B06XZNWWVK</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:12</date>
+  <millis>1498897212636</millis>
+  <sequence>485</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B01GGAOI82</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:12</date>
+  <millis>1498897212636</millis>
+  <sequence>486</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01GGAOI82</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:15</date>
+  <millis>1498897215493</millis>
+  <sequence>487</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B005QIYKVG</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:15</date>
+  <millis>1498897215503</millis>
+  <sequence>488</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00004S9GX</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:15</date>
+  <millis>1498897215504</millis>
+  <sequence>489</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00S5MUYKQ</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:18</date>
+  <millis>1498897218294</millis>
+  <sequence>490</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B0000CF66W</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:18</date>
+  <millis>1498897218296</millis>
+  <sequence>491</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:18</date>
+  <millis>1498897218296</millis>
+  <sequence>492</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:18</date>
+  <millis>1498897218296</millis>
+  <sequence>493</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:20</date>
+  <millis>1498897220804</millis>
+  <sequence>494</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B0000CF66W</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:20</date>
+  <millis>1498897220809</millis>
+  <sequence>495</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:20</date>
+  <millis>1498897220809</millis>
+  <sequence>496</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:20</date>
+  <millis>1498897220809</millis>
+  <sequence>497</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:20</date>
+  <millis>1498897220815</millis>
+  <sequence>498</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B004QM8W5S</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:23</date>
+  <millis>1498897223196</millis>
+  <sequence>499</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B0000CF66W</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:23</date>
+  <millis>1498897223200</millis>
+  <sequence>500</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007FFFYUO</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:23</date>
+  <millis>1498897223202</millis>
+  <sequence>501</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00HS4A7S6</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:25</date>
+  <millis>1498897225576</millis>
+  <sequence>502</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B005GYFW0I</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:25</date>
+  <millis>1498897225576</millis>
+  <sequence>503</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:25</date>
+  <millis>1498897225577</millis>
+  <sequence>504</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:25</date>
+  <millis>1498897225577</millis>
+  <sequence>505</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:25</date>
+  <millis>1498897225582</millis>
+  <sequence>506</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B0000CF66W</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:27</date>
+  <millis>1498897227523</millis>
+  <sequence>507</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B000WEMG74</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:29</date>
+  <millis>1498897229491</millis>
+  <sequence>508</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:29</date>
+  <millis>1498897229491</millis>
+  <sequence>509</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:29</date>
+  <millis>1498897229491</millis>
+  <sequence>510</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:29</date>
+  <millis>1498897229493</millis>
+  <sequence>511</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:29</date>
+  <millis>1498897229493</millis>
+  <sequence>512</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:29</date>
+  <millis>1498897229493</millis>
+  <sequence>513</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found ACSVBGNA01</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:41</date>
+  <millis>1498897241206</millis>
+  <sequence>514</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01N9CGXXL</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:55</date>
+  <millis>1498897255631</millis>
+  <sequence>515</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B002SQ14AO</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:59</date>
+  <millis>1498897259872</millis>
+  <sequence>516</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00I6MCP8O</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:59</date>
+  <millis>1498897259874</millis>
+  <sequence>517</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B018V3UZHU</message>
+</record>
+<record>
+  <date>2017-07-01T01:20:59</date>
+  <millis>1498897259875</millis>
+  <sequence>518</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00I6L13BA</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:02</date>
+  <millis>1498897262572</millis>
+  <sequence>519</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found this pageHiking+Shoe1</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:04</date>
+  <millis>1498897264138</millis>
+  <sequence>520</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B004TMVFIG</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:04</date>
+  <millis>1498897264139</millis>
+  <sequence>521</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:04</date>
+  <millis>1498897264139</millis>
+  <sequence>522</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:04</date>
+  <millis>1498897264139</millis>
+  <sequence>523</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:05</date>
+  <millis>1498897265568</millis>
+  <sequence>524</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01F6BKRUA</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:06</date>
+  <millis>1498897266908</millis>
+  <sequence>525</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:06</date>
+  <millis>1498897266909</millis>
+  <sequence>526</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:06</date>
+  <millis>1498897266909</millis>
+  <sequence>527</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:09</date>
+  <millis>1498897269451</millis>
+  <sequence>528</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01A05STW0</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:12</date>
+  <millis>1498897272169</millis>
+  <sequence>529</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B0018BRMV0</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:12</date>
+  <millis>1498897272178</millis>
+  <sequence>530</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01DM7WL8G</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:12</date>
+  <millis>1498897272180</millis>
+  <sequence>531</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00U5LK20M</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:12</date>
+  <millis>1498897272184</millis>
+  <sequence>532</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B0019FOUQ0</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:13</date>
+  <millis>1498897273995</millis>
+  <sequence>533</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01GB7C6OS</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:13</date>
+  <millis>1498897273996</millis>
+  <sequence>534</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00JA02RX4</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:16</date>
+  <millis>1498897276388</millis>
+  <sequence>535</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01DM7WL8G</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:16</date>
+  <millis>1498897276389</millis>
+  <sequence>536</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01ALT7JQW</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:18</date>
+  <millis>1498897278894</millis>
+  <sequence>537</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B000KKIP3Y</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:18</date>
+  <millis>1498897278896</millis>
+  <sequence>538</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B018GN6Y3Y</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:21</date>
+  <millis>1498897281171</millis>
+  <sequence>539</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:21</date>
+  <millis>1498897281172</millis>
+  <sequence>540</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:21</date>
+  <millis>1498897281172</millis>
+  <sequence>541</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:21</date>
+  <millis>1498897281173</millis>
+  <sequence>542</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00U5LK20M</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:23</date>
+  <millis>1498897283307</millis>
+  <sequence>543</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01J2U846A</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:27</date>
+  <millis>1498897287757</millis>
+  <sequence>544</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:27</date>
+  <millis>1498897287757</millis>
+  <sequence>545</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:27</date>
+  <millis>1498897287757</millis>
+  <sequence>546</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:38</date>
+  <millis>1498897298188</millis>
+  <sequence>547</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:38</date>
+  <millis>1498897298188</millis>
+  <sequence>548</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:38</date>
+  <millis>1498897298188</millis>
+  <sequence>549</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:38</date>
+  <millis>1498897298196</millis>
+  <sequence>550</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00HWORVRW</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:40</date>
+  <millis>1498897300282</millis>
+  <sequence>551</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00EUU5G82</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:40</date>
+  <millis>1498897300286</millis>
+  <sequence>552</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B01IR8U48E</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:40</date>
+  <millis>1498897300287</millis>
+  <sequence>553</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B009D10PGQ</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:42</date>
+  <millis>1498897302431</millis>
+  <sequence>554</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B0038W0M32</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:44</date>
+  <millis>1498897304481</millis>
+  <sequence>555</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00EUU5G82</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:44</date>
+  <millis>1498897304481</millis>
+  <sequence>556</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found it</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:44</date>
+  <millis>1498897304482</millis>
+  <sequence>557</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00T07KHGQ</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:44</date>
+  <millis>1498897304482</millis>
+  <sequence>558</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00AVUQQGQ</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:44</date>
+  <millis>1498897304483</millis>
+  <sequence>559</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00EUU5GFK</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:44</date>
+  <millis>1498897304484</millis>
+  <sequence>560</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00EUU5G8M</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:44</date>
+  <millis>1498897304485</millis>
+  <sequence>561</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00AVUQPSU</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:50</date>
+  <millis>1498897310503</millis>
+  <sequence>562</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:50</date>
+  <millis>1498897310503</millis>
+  <sequence>563</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:50</date>
+  <millis>1498897310503</millis>
+  <sequence>564</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:50</date>
+  <millis>1498897310507</millis>
+  <sequence>565</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B004HB5EM2</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:50</date>
+  <millis>1498897310509</millis>
+  <sequence>566</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00F5WO6LM</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:52</date>
+  <millis>1498897312838</millis>
+  <sequence>567</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found brand B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:52</date>
+  <millis>1498897312838</millis>
+  <sequence>568</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>not found thumbnail B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:52</date>
+  <millis>1498897312838</millis>
+  <sequence>569</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007RP7JU0</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:52</date>
+  <millis>1498897312840</millis>
+  <sequence>570</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B004GZBHZM</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:52</date>
+  <millis>1498897312844</millis>
+  <sequence>571</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B002ZJ9IJI</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:54</date>
+  <millis>1498897314819</millis>
+  <sequence>572</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00CHWSGW8</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:57</date>
+  <millis>1498897317133</millis>
+  <sequence>573</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00MX60S3S</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:57</date>
+  <millis>1498897317133</millis>
+  <sequence>574</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00MX604V4</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:57</date>
+  <millis>1498897317133</millis>
+  <sequence>575</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00PWC7UHW</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:57</date>
+  <millis>1498897317134</millis>
+  <sequence>576</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00PWCCPCW</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:59</date>
+  <millis>1498897319117</millis>
+  <sequence>577</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B002ZJ9IJI</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:59</date>
+  <millis>1498897319124</millis>
+  <sequence>578</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00006IBAX</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:59</date>
+  <millis>1498897319126</millis>
+  <sequence>579</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B0089AZ8YQ</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:59</date>
+  <millis>1498897319126</millis>
+  <sequence>580</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B007N7ZHGU</message>
+</record>
+<record>
+  <date>2017-07-01T01:21:59</date>
+  <millis>1498897319127</millis>
+  <sequence>581</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B000W8HZNK</message>
+</record>
+<record>
+  <date>2017-07-01T01:22:01</date>
+  <millis>1498897321109</millis>
+  <sequence>582</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B004GZBHZM</message>
+</record>
+<record>
+  <date>2017-07-01T01:22:01</date>
+  <millis>1498897321120</millis>
+  <sequence>583</sequence>
+  <logger>Logger</logger>
+  <level>WARNING</level>
+  <class>Crawler</class>
+  <method>getAmazonProds</method>
+  <thread>1</thread>
+  <message>This item's price is not found B00KBQ87JY</message>
+</record>
+</log>

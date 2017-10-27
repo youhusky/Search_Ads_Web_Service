@@ -1,0 +1,276 @@
+Prenatal DHA, 3.4, 8040,10
+prenatal DHA supplement, 12.5, 8041, 10
+Prenatal DHA nordic, 36.8, 8042, 10
+GNC prenatal DHA, 15.2, 8043, 10
+natural made prenatal DHA, 28.3, 8044, 10
+
+home theater system , 22.0, 8060,11
+wireless home theater system,2.5 ,8061,11
+Home theater system speaker,15.0,8062,11
+bose home theater system,25.0 ,8063 ,11
+bluetooth home theater system,18.0,8064 ,11
+
+LED TV, 18.0, 8070,12
+Smart LED TV,12.0,8071,12
+Sony LED TV,27.0,8072,12
+TCL Smart LED TV,36.0,8073,12
+LG 4K LED TV,21.0,8074,12
+
+smart watch, 4.5, 8080,13
+smart watch for iphone, 15, 8081, 13
+samsung smart watch, 10, 8082, 13
+smart watch charger, 3, 8083, 13
+best smart watch brand, 20, 8084, 13
+
+Video Games, 6.8, 8090,14
+Xbox 360 video games,4.5,8091,14
+action & shooter video games,2.4,8092,14
+adventure video games,3.4,8093,14
+sports  video games,5.3,8094,14
+PC & MAC video games,6.5,8095,14
+PlayStation 3 video games,7.4,8096,14
+PlayStation 4 video games,6.3,8097,14
+Nintendo Wii video games,4.7,8098,14
+Nintendo DS video games,5.3,8099,14
+
+Outdoor Furniture, 22.5,8100,15
+all weather outdoor furniture, 17, 8101,15
+ikea outdoor furniture, 18, 8102,15
+outdoor furniture covers, 17, 8103,15
+outdoor furniture set, 23, 8104,15
+suncast outdoor furniture, 20, 8105,15
+teak oil for outdoor furniture, 10, 8106,15
+beach outdoor furniture, 17, 8107,15
+garden bench outdoor furniture, 16.5, 8108,15
+urban outdoor furniture, 21, 8109,15
+
+office desk, 24.0, 8110,16
+office computer desk, 22.0, 8111,16
+adjustable office desk, 24.6, 8112,16
+home office desk, 27.0, 8113,16
+metal office desk, 21.0, 8114,16
+glass office desk, 20.0, 8115,16
+wood office desk, 29.2, 8116,16
+modern office desk, 26.1, 8117,16
+Rotating office desk, 28.0, 8118,16
+Corner L Shaped office desk, 21.1, 8119,16
+
+lego city toy,6.5, 8120,17
+lego city sets, 10.2, 8121, 17
+lego city buildings, 4.5, 8122, 17
+lego city police station, 5.7, 8123, 17
+lego city airplane, 3.2, 8124, 17
+lego toy, 3.5, 8125, 17
+LEGO Juniors Construction, 2.8, 8126, 17
+LEGO Technic Gear, 4.0, 8127, 17
+LEGO Ideas Book, 2.9, 8128, 17
+LEGO Cartoon Network, 1.4, 8129, 17
+
+Camping Tent, 12.5, 8130,18
+Andake 2-3 Person Family Camping Tent, 32, 8131, 18
+Coleman 8 Person Instant Cabin Camping Tent, 22.5, 8132, 18
+Little Explorer Camping Tent and Tools for kids, 17.5, 8134, 18
+
+bike, 8.5, 8140,19
+marin bike, 12.3, 8141, 19
+hydraulic disc brakes bike, 15.2, 8142, 19
+mountain bike, 13.8, 8143, 19
+Phone Mount  holder bike, 14.9, 8144, 19
+
+Shaver, 5.5, 8150,20
+Philips Norelco Shaver, 6.4, 8151,20
+Electric Travel Shaver, 4.6, 8152,20
+Philips Waterproof Shaver, 6.0, 8153,20
+Women Electric Shaver, 5.9, 8154,20
+Cleaning Center Shaver for Men, 6.9, 8155,20
+Braun Washable Shaver, 6.5, 8156,20
+Panasonic Electric Razor, 7.0, 8157,20
+Remington Foil Shaver, 6.6, 8158,20
+Philips Body Trimmer, 5.0, 8159,20
+Gillette Fusion Proglide Styler, 7.5, 8160,20
+Razorba Back Hair Shaver, 8.1, 8161,20
+Remington Comfort Foil Shaver, 7.7, 8162,20
+
+Kids Bed, 12.0,8160,21
+Twin Loft Bed, 13.0, 8161,21
+Wood Toddler Bed, 15.0, 8162,21
+Nursery Travel Bed, 11.0, 8163,21
+Twin Platform Bed, 10.0, 8164,21
+Kids Tent Toddler, 11.0, 8165,21
+Sleeping Bag Sofa Bed, 13.0, 8166,21
+Metal Daybed Frame, 14.0, 8167,21
+14 Inch Steel Bed Frame, 16.0, 8168,21
+Twin Bed Set, 18.0, 8169,21
+
+grill, 24.0, 8170, 22
+Char-Broil Charcoal grill, 28, 8171, 22
+Weber Gas grill, 28, 8172, 22
+Indoor Electric grill, 26, 8173, 22
+Grills & Outdoor Cooking, 26, 8174, 22
+
+tea maker, 2.5, 8180,23
+iced tea maker , 1.5,8181 , 23
+one-touch tea maker,3.8 ,8182 ,23
+electric glass tea kettle, 4.0,8183,23
+tea brewing system,7.9,8184 ,23
+Gourmia glass tea maker,3.4,8185,23
+American Press coffee and tea maker,5.6 ,8186,23
+
+
+Portable Bluetooth Speaker , 12.0, 8190,24
+Bluetooth Wireless Speaker, 13.0, 8191,24
+Magic Box II Bluetooth Speaker, 14.0, 8192,24
+Soundbot SB571 Bluetooth Speaker, 15.0, 8193,24
+Bluetooth V4.0 Portable Speaker Green, 16.0, 8194,24
+Bluetooth Speaker for Shower and Outdoor, 17.0, 8195,24
+Waterproof Bluetooth Speaker, 18.0, 8196,24
+Amuoc L1 Bluetooth Speaker, 19.0, 8197,24
+Bluetooth Speaker ZENBRE Z3 10W , 20.0, 8198,24
+Ranking Hi-Fi Bluetooth Speaker , 21.0, 8199,24
+
+Lawn Mower, 25.8, 8200,25
+Electric Lawn Mower, 31.0,8202,25
+Lawn Mower With High Rear Wheels,32.0,8203,25
+Propelled Mower With Electric Start, 20.0,8204,25
+Self-Propelled Lawn Mower,22.0,8205,25
+Honda lawn mower,23.5,8206,25
+
+sports camera, 5.0, 8210,26
+4k wifi sports action camera, 7.5, 8211,26
+waterproof sports action camera, 8.4, 8212,26
+1080p full hd dv sports recorder, 3.2, 8213,26
+goPro hero5 black, 3.6, 8214,26
+waterproof sports dv, 4.4, 8215,26
+waterproof sports camera with sony sensor, 2.9, 8216,26
+floureon y8-p waterproof wireless mini wifi action sports camera, 1.4, 8217,26
+sports camera with remote control, 5.3, 8218,26
+sports camera with accessories, 6.5, 8219,26
+
+Face Moisturize, 4.0, 8220,27
+Timeless Face Moisture, 6.0, 8221, 27
+Anti Aging Face Moisture, 8.0, 8222, 27
+Oil Free Moisture, 5.0, 8223, 27
+Daily Face Moisture, 3.0, 8224, 27
+
+Snow Blower, 15.0, 8230,28
+Electric Snow Blower, 18.0, 8231, 28
+Snow Joe Snow Blower, 16.0, 8232, 28
+Single Stage Snow Blower, 19.0, 8233, 28
+Snow Blower Accessories, 20.0, 8234, 28
+
+sports camera, 5.0, 8240, 29
+the best 10 sports camera, 3.2, 8241, 29
+sports camera accessories for sale,2.2,8242, 29
+Shop for sports camera at Best Buy,4.8,8243, 29
+SJCAM Sports Camera Flagship Store,1.4,8244, 29
+
+Shampoo, 3.0, 8250,30
+Shampoos & Conditioner Sets, 6.3, 8251, 30
+Oily Hair Shampoo, 4.4, 8252, 30
+Hair Repair Shampoo, 3.7 , 8253, 30
+Pantene Hair Shampoo , 2.8, 8354, 30
+
+Gaming Mouse, 2.0, 8260,31
+Razer Gaming Mouse ,3.0, 8261, 31
+Ergonomic Gaming Mouse, 3.2, 8262, 31
+Optical Wired Gaming Mouse, 2.9, 8263, 31
+Programmable Gaming Laser Mouse, 3.5, 8264, 31
+
+Gaming Keyboard, 4.0, 8270,32
+Mechanical Gaming Keyboard,	6.0,	8271,	32
+LED Gaming Keyboard,	4.0,	8272,	32
+Silent Mechanical Gaming Keyboad,	12.0,	8273,	32
+Backlit Wired Gaming Keyboard,	5.0,	8274,	32
+Mecha-Membrane Gaming Keyboard,	8.0,	8275,	32
+
+
+iphone charger, 3.0, 8280, 33
+portable charger, 2.5, 8290, 34
+
+Radio Control Vehicle, 5.5, 8300,35
+Rock Crawler Radio control Vehicle, 10.0, 8301, 35
+Climber radio Control Vehicle, 8.5, 8302, 35
+Ford Mustang GT Radio Control Vehicle, 11.2, 8303, 35
+Chevrolet Camaro SS Radio Control Vehicle , 11.0, 8304, 35
+
+building toys, 2.5, 8310,36
+building toys for 5 year old boys, 2.8, 8311, 36
+building toys for toddlers, 2.0, 8312, 36
+building toys for kids, 4.2, 8313, 36
+building toys for girls, 3, 8314, 36
+
+Pressure Cookers, 4.5, 8320,37
+Instant Pot Pressure Cooker,10.0,8321,37
+Electric Pressure Cooker,6,8322,37
+Stainless Steel Pressure Cooker,6,8323,37
+Multi-Functional Pressure Cooker,6,8324,37
+
+blender, 5.5, 8330,38
+Smart Professional Blender,4.8, 8331, 38
+Personal Single Serve Blender, 4.5, 8332, 38
+Multi-Function Blender with Glass Jar, 5.6, 8333, 38
+Hand Blender Set,2.8,8334, 38
+
+Grill Pans, 2.0, 8340, 39
+grill pans for stove tops, 4.0, 8341, 39
+grill pans with lids,3.0,8342, 39
+grill pans for outdoor grill, 6.0, 8343, 39
+weber grill pans, 4.5, 8344, 39
+
+pet bed, 3.0, 8350,40
+Frisco Quilted Fleece Pet Bed,4.6,8351,40
+Coolaroo Steel-Framed Elevated Pet Bed,5.0,8352,40
+FurHaven Quilted Orthopedic Sofa-Style Pet Bed,5.5,8353,40
+Sasquatch Shoe Small Pet Bed,7.0,8354, 40
+
+Exercise Mats, 3.0, 8360,41
+Large Exercise Mats,5.0,8361,41
+Exercise Mats for yoga,7.0, 8362, 41
+Foam Exercise Mats, 11.0, 8363, 41
+High-Density Exercise Mats, 4.0, 8364, 41
+
+Eye Cream, 5.0, 8370,42
+Eye Cream Sefora, 20.0, 8371, 42
+Eye Cream for man, 10.0, 8372, 42
+Best Eye Cream, 30.0,  8373, 42
+SK-II Eye Cream, 10.0 , 8374, 42
+
+Hiking Shoe, 5.0, 8380,43
+
+Wall Mount Shelf, 5.0, 8390,44
+DVD Wall Mount Shelf, 1.5, 8391, 44
+TV Wall Mount Shelf, 4.5, 8392, 44
+Glass Wall Mount Shelf, 3.7, 8393, 44
+3-Tier Wall Mount Shelf, 3.1, 8394, 44
+
+Rack Organizer, 3.0, 8400,45
+Battery Rack Organizer, 5.0, 8401, 45
+Spice Rack Organizer, 10.0, 8402,45
+Can Rack Organizer, 8.0, 8403, 45
+Shoe Rack Organizer, 7.0, 8404,	45
+
+Camping Lantern, 3.0, 8410, 46
+Portable Outdoor Camping Lantern, 11.1, 8411, 46
+LED Camping Lantern, 15.5, 8412, 46
+Brightest Camping Lantern, 20.4, 8413, 46
+4 Pack LED Camping Lanterns, 5.5, 8414, 46
+Suaoki 18 LED Camping Tent Lantern Lighting Lights, 10.0, 8415, 46
+
+Coffee Bean Container, 3.5, 8420, 47
+
+Canopy Tent, 4.5, 8430, 48
+
+Executive Chair, 5.0, 8440, 49
+Boss Executive Chair, 15, 8441, 49
+Serta Executive Chair, 25, 8442, 49
+Viva Executive Chair, 10, 8443, 49
+AmazonBasics Executive Chair, 40, 8444, 49
+
+Bookcase, 4.0, 8450, 50
+
+
+File Cabinets, 5.0, 8460, 51
+IKEA File Cabinets, 4.5, 8461, 51
+Officeworks Filing Cabinets, 4.0, 8462, 51
+Wooden Filing Cabinets, 3.5, 8463, 51
+3-drawer Filing Cabinet, 3.5, 8464, 51
